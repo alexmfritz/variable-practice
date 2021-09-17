@@ -23,3 +23,17 @@ var canITopRope = false;
 var popularRouteNames = ["Reptiles and Anphetamines", "Chronic", "Aboriginie", "Psycho-wussy", "Rainy Day Woman", "Enigma"];
 var myFavRoutes = ["Chronic", "Psycho-somatic", "Californication", "Enigma"];
 var myLeastFavRoutes = ["Reptiles and Anphetamines", "Psycho-Wussy", "Rainy Day Woman"];
+
+//Objects
+var myFavRoute = {
+  name: "Chronic",
+  heightFeet: 85,
+  style: "pumpy",
+  difficulty: 5.13
+}
+var myLeastFavRoute = {
+  name: "Techno-Wussy",
+  heightFeet: 120,
+  style: "wacky",
+  difficulty: 5.12
+}
