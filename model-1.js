@@ -18,3 +18,8 @@ var isItScary = true;
 var isTheHikeLong = true;
 var isThisBouldering = false;
 var canITopRope = false;
+
+//Arrays
+var popularRouteNames = ["Reptiles and Anphetamines", "Chronic", "Aboriginie", "Psycho-wussy", "Rainy Day Woman", "Enigma"];
+var myFavRoutes = ["Chronic", "Psycho-somatic", "Californication", "Enigma"];
+var myLeastFavRoutes = ["Reptiles and Anphetamines", "Psycho-Wussy", "Rainy Day Woman"];
